@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kazhnov
-- 👀 I’m interested in toki pona
+- 👀 I’m interested in text-based games, toki pona
 - 🌱 I’m currently learning c & python
-- 💞️ I’m looking to collaborate on toki pona promotion
+- 💞️ I’m looking forward to wdh
 - 📫 How to reach me kazhnov@gmail.com
 
 <!---
